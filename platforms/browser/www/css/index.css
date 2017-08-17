@@ -1,0 +1,33 @@
+body {
+    background-color:#93fc7e;
+}
+
+#choose{
+  position: relative;
+  top: 20px;
+  width:200px;
+}
+
+#college{
+  position: relative;
+  top: 30px;
+  color: #e39a5b;
+}
+
+#scholarship{
+  position: relative;
+  top: 30px;
+  color: #e39a5b;
+}
+
+#continueButton{
+  position: relative;
+  top: 100px;
+  color: #e39a5b;
+  background-color: #fffa75;
+  padding: 10px;
+  font-size: 25px;
+  width: 200px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
